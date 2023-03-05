@@ -2,8 +2,6 @@
 [![Linkedin Badge]([(https://www.linkedin.com/in/falguni-takawale-21b46025a/)]
 
 
-
-
 ![Visitor Count](https://profile-counter.glitch.me/FalguniTakawale/count.svg)
 
 <div>
